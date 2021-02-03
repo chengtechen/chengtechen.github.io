@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ChengTe | Personal blog</title>
+    <link>https://chengte.chen.github.com/</link>
+    <description>Recent content on ChengTe | Personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 03 Feb 2021 10:08:47 +0800</lastBuildDate><atom:link href="https://chengte.chen.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo shortcodes</title>
+      <link>https://chengte.chen.github.com/blog/shortcodes/</link>
+      <pubDate>Wed, 03 Feb 2021 10:08:47 +0800</pubDate>
+      
+      <guid>https://chengte.chen.github.com/blog/shortcodes/</guid>
+      <description>Hugo shortcodes
+ https://gohugo.io/content-management/shortcodes/#readout
+youtube   tweet Hugo 0.</description>
+    </item>
+    
+    <item>
+      <title>Markdown語法</title>
+      <link>https://chengte.chen.github.com/blog/test/</link>
+      <pubDate>Wed, 03 Feb 2021 10:07:47 +0800</pubDate>
+      
+      <guid>https://chengte.chen.github.com/blog/test/</guid>
+      <description>Markdown語法
+ 內文
+1級標題 2級標題 6級標題 粗體
+斜體
+ 有序序列1  子有序序列1   有序序列2   無序序列1  子無序序列1   無序序列2   引用</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://chengte.chen.github.com/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://chengte.chen.github.com/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on ChengTe | Personal blog</title>
+    <link>https://chengte.chen.github.com/tags/markdown/</link>
+    <description>Recent content in Markdown on ChengTe | Personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 03 Feb 2021 10:07:47 +0800</lastBuildDate><atom:link href="https://chengte.chen.github.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown語法</title>
+      <link>https://chengte.chen.github.com/blog/test/</link>
+      <pubDate>Wed, 03 Feb 2021 10:07:47 +0800</pubDate>
+      
+      <guid>https://chengte.chen.github.com/blog/test/</guid>
+      <description>Markdown語法
+ 內文
+1級標題 2級標題 6級標題 粗體
+斜體
+ 有序序列1  子有序序列1   有序序列2   無序序列1  子無序序列1   無序序列2   引用</description>
+    </item>
+    
+  </channel>
+</rss>
