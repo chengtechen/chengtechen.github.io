@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ChengTe | Personal blog</title>
-    <link>https://chengtechen.github.com/categories/</link>
+    <link>https://chengtechen.github.io/categories/</link>
     <description>Recent content in Categories on ChengTe | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 03 Feb 2021 10:08:47 +0800</lastBuildDate><atom:link href="https://chengtechen.github.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Feb 2021 10:08:47 +0800</lastBuildDate><atom:link href="https://chengtechen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>程式設計</title>
-      <link>https://chengtechen.github.com/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/</link>
+      <link>https://chengtechen.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/</link>
       <pubDate>Wed, 03 Feb 2021 10:08:47 +0800</pubDate>
       
-      <guid>https://chengtechen.github.com/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/</guid>
+      <guid>https://chengtechen.github.io/categories/%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go Language</title>
-      <link>https://chengtechen.github.com/categories/go-language/</link>
+      <link>https://chengtechen.github.io/categories/go-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://chengtechen.github.com/categories/go-language/</guid>
+      <guid>https://chengtechen.github.io/categories/go-language/</guid>
       <description></description>
     </item>
     
