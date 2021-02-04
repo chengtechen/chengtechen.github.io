@@ -31,14 +31,5 @@ youtube   tweet Hugo 0.</description>
  有序序列1  子有序序列1   有序序列2   無序序列1  子無序序列1   無序序列2   引用</description>
     </item>
     
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://chengtechen.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://chengtechen.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
   </channel>
 </rss>
